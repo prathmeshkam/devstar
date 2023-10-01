@@ -29,6 +29,17 @@ export let tools = {
         link: '/random-image-generator',
         description: "The Random Image Generator is a dynamic tool that enables developers to generate random images on the fly. Whether you need placeholder images for testing or want to add visual elements to your applications, this tool can generate a wide variety of random images based on different categories, dimensions, and styles. Utilize this tool to add visual appeal and realism to your applications effortlessly."
     },
+    'qr-scanner': {
+        name: 'Qr Scanner',
+        icon: 'shuffle',
+        link: '/qr-scanner',
+        description: "The Random Image Generator is a dynamic tool that enables developers to generate random images on the fly. Whether you need placeholder images for testing or want to add visual elements to your applications, this tool can generate a wide variety of random images based on different categories, dimensions, and styles. Utilize this tool to add visual appeal and realism to your applications effortlessly."
+    },'qr-generator': {
+        name: 'Qr Generator',
+        icon: 'shuffle',
+        link: '/qr-generator',
+        description: "The Random Image Generator is a dynamic tool that enables developers to generate random images on the fly. Whether you need placeholder images for testing or want to add visual elements to your applications, this tool can generate a wide variety of random images based on different categories, dimensions, and styles. Utilize this tool to add visual appeal and realism to your applications effortlessly."
+    },
     'screen-video-recorder': {
         name: 'Screen Video Recorder',
         icon: 'display',
