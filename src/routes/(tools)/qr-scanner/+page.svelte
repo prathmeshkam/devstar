@@ -13,6 +13,6 @@
 
 <section class="*">
 	<div class="*">
-		<h1> Hello , Scanning Team </h1>
+		<h1> Hello </h1>
 	</div>
 </section>
