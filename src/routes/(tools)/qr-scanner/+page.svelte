@@ -7,12 +7,12 @@
 	
 </script>
 
-<Intro heading={data.meta.title} description={data.meta.description} />
+<!-- <Intro heading={data.meta.title} description={data.meta.description} />
 
-<svelte:window bind:innerWidth bind:innerHeight />
+<svelte:window bind:innerWidth bind:innerHeight /> -->
 
 <section class="*">
 	<div class="*">
-		<h1> Hello </h1>
+		<h1> Hello , World </h1>
 	</div>
 </section>
